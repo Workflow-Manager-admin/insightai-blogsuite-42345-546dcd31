@@ -1,0 +1,4 @@
+{
+    "command": "mongosh --host localhost --port 27017 --eval \"db.adminCommand(ping)\"",
+    "working_directory": "/home/kavia/workspace/code-generation/insightai-blogsuite-42345-546dcd31/insightai-db"
+}
