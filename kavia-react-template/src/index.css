@@ -1,0 +1,56 @@
+ /* Minimal CSS Reset and Brand Styles for KAVIA React Vite Template */
+
+ /* CSS Reset */
+ *, *::before, *::after {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+ }
+
+ /* Brand Colors (KAVIA example) */
+ :root {
+   --primary: #3B82F6;
+   --font-body: 'Inter', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+   --background: #fff;
+   --text: #222;
+ }
+
+ html, body {
+   min-height: 100%;
+   font-family: var(--font-body);
+   background: var(--background);
+   color: var(--text);
+ }
+
+ body {
+   line-height: 1.5;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+ }
+
+ a {
+   color: var(--primary);
+   text-decoration: none;
+ }
+
+ h1, h2, h3, h4, h5, h6 {
+   font-weight: 600;
+   color: var(--primary);
+   font-family: inherit;
+ }
+
+ /* Optional: basic button style */
+ button {
+   font-family: inherit;
+   border: none;
+   cursor: pointer;
+   background: var(--primary);
+   color: #fff;
+   padding: 0.5em 1em;
+   border-radius: 4px;
+   transition: background 0.2s;
+ }
+
+ button:hover {
+   background: #2563eb;
+ }
