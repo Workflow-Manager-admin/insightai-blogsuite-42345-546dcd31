@@ -1,0 +1,9 @@
+{
+  "name": "insightai-blog-server",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Node + Express backend for InsightAI BlogSuite",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}

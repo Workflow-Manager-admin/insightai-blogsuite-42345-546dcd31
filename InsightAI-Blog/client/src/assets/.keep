@@ -1,0 +1,4 @@
+/*
+  This file ensures the assets/ directory is tracked by git.
+  Add static files (images/fonts) for the client app here.
+*/

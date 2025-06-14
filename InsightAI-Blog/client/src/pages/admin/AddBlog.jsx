@@ -1,0 +1,3 @@
+/**
+ * AddBlog admin page (placeholder)
+ */

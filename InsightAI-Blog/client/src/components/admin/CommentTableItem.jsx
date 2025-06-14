@@ -1,0 +1,3 @@
+/**
+ * CommentTableItem admin component (placeholder)
+ */

@@ -1,0 +1,9 @@
+{
+  "name": "insightai-blog-client",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Vite + React frontend for InsightAI BlogSuite",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}

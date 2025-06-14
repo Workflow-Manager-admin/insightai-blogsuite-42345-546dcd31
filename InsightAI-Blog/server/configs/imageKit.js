@@ -1,0 +1,3 @@
+/**
+ * ImageKit CDN config (placeholder)
+ */

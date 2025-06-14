@@ -1,0 +1,3 @@
+/**
+ * Comment mongoose model (placeholder)
+ */

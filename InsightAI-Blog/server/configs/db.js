@@ -1,0 +1,3 @@
+/**
+ * MongoDB connection config (placeholder)
+ */

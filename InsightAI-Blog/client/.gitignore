@@ -1,0 +1,7 @@
+// Node dependencies, build output, environment and local files to ignore for client
+node_modules/
+dist/
+.env
+.vite/
+.idea/
+.DS_Store

@@ -1,0 +1,3 @@
+/**
+ * Home/landing page (placeholder)
+ */

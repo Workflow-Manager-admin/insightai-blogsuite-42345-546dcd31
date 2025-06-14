@@ -1,0 +1,3 @@
+/**
+ * Blog mongoose model (placeholder)
+ */

@@ -1,0 +1,3 @@
+/**
+ * ListBlog admin page (placeholder)
+ */

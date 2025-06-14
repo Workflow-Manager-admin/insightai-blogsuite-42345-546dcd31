@@ -1,0 +1,4 @@
+// Ignore dependencies, environment configs, system files for server
+node_modules/
+.env
+.DS_Store
